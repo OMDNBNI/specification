@@ -1,4 +1,4 @@
-#OMDNBNI
+# OMDNBNI
 
 It is globally self-evident that the current state of the educational system simply does not fulfill 
 the requirements of modern IT needs. 
@@ -40,12 +40,12 @@ The enrollment of students in the **Incubator** and their graduation is monitore
 
 The members of the **Board** can offer a position in their company to an **OMDNBNI** graduate or make other suitable arrangements.
 
-##Contributors
+## Contributors
 
 The project is maintained by the [OMDNBNI](https://www.omdnbni.com) community members. 
 
 In order to join the community, one should contact me by email [aleksandar.ostojic@omdnbni.com](mailto:aleksandar.ostojic@omdnbni.com)
 
-##License 
+## License 
 
 See: [CC BY-SA 4.0](LICENSE)
