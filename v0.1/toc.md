@@ -12,6 +12,7 @@
   * [Dynamic Curriculum](Lectures.md#dynamic-curriculum)
   * [Analog monitor](Lectures.md#analog-monitor)
   * [Digital monitor](Lectures.md#digital-monitor)
+  * [Conference room](Lectures.md#conference-room)
 * [Golden Project](Project.md)
   * [Project Milestone](Project.md#project-milestone)
   * [Project Completion](Project.md#project-completion)
