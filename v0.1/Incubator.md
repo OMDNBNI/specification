@@ -20,7 +20,7 @@ if the need arises and thus effectively *“fire”* them.
 These members of the incubator are future [**eggvelopers**](#eggvelopers) that are undergoing a process of acquiring the necessary skill-set.
 The skill-set defines what we call a *minimal viable developer* **MVD** and includes Working knowledge of using:
 * a Programming Language (eg. JavaScript, GoLang, Python, ...);
-* a Project management tool (eg. Jira, RedMine, Trello, ...);
+* a Project management tool (eg. Jira, Redmine, Trello, ...);
 * a Distributed Version Control System (eg. Git, Mercurial, ...);
 
 The **board** is responsible for setting up the skill-set requirements per incubator instance.
