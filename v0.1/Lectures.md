@@ -23,7 +23,8 @@ The lecture topics scheduling is described in the [**dynamic curriculum**](#dyna
 The duration of the lectures is approximately *2 hours*, including any *5-15 minute* break if and when necessary.
 
 During the lecture the lecturer (usually **anarchitect**) initializes the lecture topic, by giving an introductory presentation of the topic
-and then mediates the group discussion on the subject in a form of a dialectic more than a debate.
+and then mediates the group discussion on the subject in a form of a
+[dialectic more than a debate](https://mapandterritory.org/debate-and-dialectic-850b3585dad4).
 
 Two members attending the lectures are voluntarily chosen to take the role of a **digital** and **analog** monitor and
 will provide assistance to the lecturer.

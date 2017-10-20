@@ -45,7 +45,8 @@ The members of the **Board** can offer a position in their company to an **OMDNB
 
 This project is a work in progress and is being maintained by the community members.
 
-The current version is **[v0.1](v0.1/toc.md)**
+The current version is **[v0.1](v0.1/toc.md)** where the paradigm is described in detail.
+It will be revised after the method had been tested in real-life.
 
 ## Contributors
 
