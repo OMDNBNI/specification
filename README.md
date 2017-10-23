@@ -1,5 +1,7 @@
 # OMDNBNI
 
+### A new educational model in IT
+
 It is globally self-evident that the current state of the educational system simply does not fulfill 
 the requirements of modern IT needs. 
 
@@ -45,8 +47,13 @@ The members of the **Board** can offer a position in their company to an **OMDNB
 
 This project is a work in progress and is being maintained by the community members.
 
-The current version is **[v0.1](v0.1/toc.md)** where the paradigm is described in detail.
+The current version of the project is **[OMDNBNI v0.1](v0.1/toc.md)** where the paradigm is described in detail.
 It will be revised after the method had been tested in real-life.
+
+## Roadmap
+
+The specification will be released as soon as the first Incubator instance is setup and running.
+At that point the specification will be released under version **v1.0**, which we hope to achieve by November 2017
 
 ## Contributors
 
@@ -56,6 +63,8 @@ In order to join the community, contact me by email [aleksandar.ostojic@omdnbni.
 
 * Aleksandar Ostojić <aleksandar.ostojic@omdnbni.com> (Author)
 * Vladimir Jovanović <vladimir.jovanovic@omdnbni.com>
+* Vladan Stanković <vladan.stankovic@bytestate.com>
+* Srđan Ilić       <srdjan.ilic@zooncreative.com>
 
 ## License 
 

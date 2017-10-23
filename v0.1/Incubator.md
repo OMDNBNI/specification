@@ -22,6 +22,8 @@ The skill-set defines what we call a *minimal viable developer* **MVD** and incl
 * a Programming Language (eg. JavaScript, GoLang, Python, ...);
 * a Project management tool (eg. Jira, Redmine, Trello, ...);
 * a Distributed Version Control System (eg. Git, Mercurial, ...);
+* a Integrated Development Environment (eg. JetBrains, VisualStudio, ...);
+* a Software Producing process (BRD, SRS, CI, CD);
 
 The **board** is responsible for setting up the skill-set requirements per incubator instance.
    
@@ -46,7 +48,8 @@ The **board** will keep track of their progress through:
 * a monthly **1h** visit where the board members can interact with the group.
 
 If there is an odd number of **twinvelopers**, the lone member will have to continue alone until a new member arrives or 
-will receive a bit more attention by the [**anarchitect**](#anarchitect) as they are lacking the collaborative dynamic to improve at the same pace.
+will receive a bit more attention by the [**anarchitect**](#anarchitect) as they are lacking the collaborative dynamic
+to improve at the same pace.
 
 The incubator cannot be started w/o the existence of this group.
 
@@ -96,18 +99,22 @@ The incubator **board** is the authority of the incubator and is responsible for
 
 It is consisted out of experts in various fields that have necessary skills to assess the incubator members.
 Their function is to:
-* Interview candidates that wish to enter the incubator and
-    * If chosen the board should place them in a group as an **eggveloper** or twinveloper.
-* Assign and specify a project the **eggvelopers** will be working on.
-* Review all reports provided by the incubator anarchitect.
-* Review all **eggvelopers** on a weekly basis and once a month in person
-* Approve the continuation of funding to any member.
+* Interview candidates that wish to enter the incubator;
+* Assign and specify a project the **eggvelopers** will be working on;
+* Review all reports provided by the incubator anarchitect;
+* Review all **eggvelopers** on a weekly basis and once a month in person;
+* Approve the continuation of funding to any member;
+* Hold **monthly board review** meetings;
+* Attend the **Golden Project** release presentation;
+* To make the final assessment of the **Golden Project**;
 
 ### Monthly Board Review
 The conclusion of the monthly board visit should be:
+* to hold an up to *15 minute* review interview with each **eggveloper** individually;
+* to optionally hold a *1 hour* group review meeting with the secondary group of **twinvelopers**;
 * to *"promote"* or *"demote"* any member from **eggvelopers** to **twinvelopers** and vice versa;
 * to approve bonuses of *20%* of the monthly allocated budget per member, to any deserving member
-(eggveloper and **twinveloper** alike).
+(**eggveloper** and **twinveloper** alike);
 
 ## Anarchitect 
 The **anarchitect** is the guardian of the incubator and a guide for the members.
