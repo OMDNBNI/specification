@@ -64,7 +64,7 @@ In order to join the community, contact me by email [aleksandar.ostojic@omdnbni.
 * Aleksandar Ostojić <aleksandar.ostojic@omdnbni.com> (Author)
 * Vladimir Jovanović <vladimir.jovanovic@omdnbni.com>
 * Vladan Stanković <vladan.stankovic@bytestate.com>
-* Srđan Ilić       <srdjan.ilic@zooncreative.com>
+* Srđan Ilić       <srdjan.ilic@gmail.com>
 
 ## License 
 

@@ -26,8 +26,8 @@ During the lecture the lecturer (usually **anarchitect**) initializes the lectur
 and then mediates the group discussion on the subject in a form of a
 [dialectic more than a debate](https://mapandterritory.org/debate-and-dialectic-850b3585dad4).
 
-Two members attending the lectures are voluntarily chosen to take the role of a **digital** and **analog** monitor and
-will provide assistance to the lecturer.
+Two members attending the lectures are voluntarily chosen to take the role of a **digital** and **analog** TA
+(teacher's assistant) and will provide assistance to the lecturer.
 
 All **planned lectures** are recorded (both video and audio) and are distributed to the members and/or published the public.
 
@@ -60,25 +60,25 @@ on the next lecture planing session.
 The modification may be to add|remove|change the original lecture material so that the group can prepare more adequately,
 or it can be split into multiple topics, or it can be joined into another topic on the the curriculum.
 
-## Analog monitor
+## Analog TA
 
-The duty of an **analog monitor** is to manage the whiteboard during the lectures.
-This means that the monitor can be asked to draw and write down concepts regarding the lecture context by the lecturer,
+The duty of an **analog TA** is to manage the whiteboard during the lectures.
+This means that the TA can be asked to draw and write down concepts regarding the lecture context by the lecturer,
 but is not limited by the lecturer.
 
-In addition the monitor should carefully follow the flow of the lecture and keep the flow on point,
+In addition the TA should carefully follow the flow of the lecture and keep the flow on point,
 reverting it from any lengthy digression.
 
-An ideal **analog monitor** does not need to be given directions by the lecturer.
+An ideal **analog TA** does not need to be given directions by the lecturer.
 
-## Digital monitor
-A **digital monitor** is responsible for working on a laptop-projector hookup during the lecture.
-The lecturer can ask the monitor to query a certain term or manage the power point presentation,
+## Digital TA
+A **digital TA** is responsible for working on a laptop-projector hookup during the lecture.
+The lecturer can ask the TA to query a certain term or manage the power point presentation,
 but is not limited by the lecturer.
 
-In addition the monitor is responsible for fact-checking the information presented during the lecture.
+In addition the TA is responsible for fact-checking the information presented during the lecture.
 
-An ideal **digital monitor** does not need to be given directions by the lecturer.
+An ideal **digital TA** does not need to be given directions by the lecturer.
 
 ## Conference room
 In order to facilitate these types of the lectures, the **Incubator** requires the following infrastructure:
